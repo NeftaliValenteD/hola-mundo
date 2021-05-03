@@ -1,4 +1,4 @@
-# hola-mundo
+# Hola Mundo
 ejemplo
 
 autor Neftali Valente 
